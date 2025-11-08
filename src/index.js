@@ -4,7 +4,7 @@
  * @returns {string} A greeting message for the given name.
  */
 function sayHi(name) {
-  return `Hello there ${name}`;
+  return `Hello ${name}`;
 }
 
 module.exports = sayHi;
