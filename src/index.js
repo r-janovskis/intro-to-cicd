@@ -5,6 +5,7 @@
  */
 function sayHi(name) {
   return `Hello there ${name}`;
+  console.log("Something smells here");
 }
 
 module.exports = sayHi;
